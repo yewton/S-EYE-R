@@ -1,0 +1,12 @@
+PackageURL = http://appli.docomomarket.ne.jp/detail/BUY002_A2_001?uid=NULLGWDOCOMO&guid=on&cid=10000006085&urlRandomValue=ITnZOUknWUL4qa6s2ADu
+TrustedAPID = 10000006085
+AppSize = 125545
+AppMainTitle = icon_title.jpg
+AppName = S-EYE-R
+AppVer = 1.0.0
+DrawArea = 480x640
+AppClass = jp.gr.java_conf.yewton.syer.Main
+AccessUserInfo = yes
+LastModified = Sun, 29 May 2011 21:14:11
+AppType = FullApp
+AppIcon = icon_1.jpg,icon_2.jpg
